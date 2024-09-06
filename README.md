@@ -11,4 +11,4 @@
   </tr>
 </table>
 
-Proyecto del curso de "Fundamentos de Sass: Crea tu Primera Landing Page" de Platzi 
+Proyecto del curso de "Fundamentos de Sass: Crea tu Primera Landing Page" de Platzi
